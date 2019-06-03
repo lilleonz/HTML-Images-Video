@@ -37,3 +37,23 @@
     flex-direction: row;
     margin-right: 5%;
 }
+.videoimage-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.video-container {
+    margin-left: 8%;
+    margin-top: 2%;
+    margin-right: 10%;
+}
+
+.images-container {
+    display: inline;
+    flex-direction: row;
+    margin-top: 2%;
+}
+
+#image-text {
+    display: right;
+}
